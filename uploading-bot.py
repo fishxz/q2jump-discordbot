@@ -67,4 +67,4 @@ async def on_ready():
     print('------')
 
 client.loop.create_task(my_background_task())
-client.run('MzUyNzI5ODI3NTU3NzY5MjE3.DIlYzw.Cw2gidQlz0VZlHTV_JQuXcaFfCA')
+client.run('***')
